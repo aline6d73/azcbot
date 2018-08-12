@@ -1,0 +1,17 @@
+U> Hi
+B> Hello there! I am your virtual assistant! What can I do for you today?
+
+U> I cannot connect to the AVC
+B> Oh! I am very sorry to hear it. Let me help you!
+
+B> What your User ID?
+U> <user enters user ID>
+
+B>What is your first name?
+U> <user enters name>
+
+B> Ok, <user name>, let us try some steps...
+B> Do you have a password problem? Please says yes or no.
+U> <user enters answer>
+
+

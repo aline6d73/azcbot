@@ -1,0 +1,7 @@
+" Hi there, I'm your help desk bot. I can support with the following
+1. Order an application or a hardware
+2. Search through the FAQs
+3. Check your ticket status
+What would you like to do?"
+
+
